@@ -5,7 +5,7 @@ ID: "7576f29f-d144-432f-b58b-4ad7897d01f4"
 tags:
   - "astro"
   - "jam-stack"
-title: "Introducing Astro - Ship Less JavaScript"
+title: "What Astro - Ship Less JavaScript"
 layout: "$/layouts/post.astro"
 date: "2021-06-08"
 image: "https://images.unsplash.com/photo-1589409514187-c21d14df0d04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
@@ -16,7 +16,7 @@ categories:
   - "design"
   - "qwe"
 createdAt: 1661349256850
-updatedAt: 1661349319464
+updatedAt: 1697456083357
 
 ---
 Unfortunately, modern web development has been trending in the opposite direction—towards more. More JavaScript, more features, more moving parts, and ultimately more complexity needed to keep it all running smoothly.
